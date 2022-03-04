@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Architecture_MVVM</string>
+    <string name="label_movie_title">Title</string>
+</resources>

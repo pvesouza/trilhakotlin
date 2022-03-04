@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClientList</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="phone_number">(xx)xxxxx-xxxx</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu2">Menu2</string>
+    <string name="menu3">Menu3</string>
+    <string name="label_drawer_open">Menu Opened</string>
+    <string name="label_drawer_closed">Menu Closed</string>
+</resources>

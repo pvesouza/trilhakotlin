@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal">
+
+    <ImageView
+        android:id="@+id/imageView_imagemain"
+        android:scaleType="centerCrop"
+        android:src="@drawable/std_image"
+        android:layout_width="380dp"
+        android:layout_height="380dp"
+        android:layout_margin="16dp"
+        android:contentDescription="@string/selected_image" />
+
+    <Button
+        android:id="@+id/button_pick_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:padding="10dp"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:text="@string/select"/>
+
+    <Button
+        android:id="@+id/button_open_cam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:padding="10dp"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:text="@string/camera"/>
+
+</LinearLayout>

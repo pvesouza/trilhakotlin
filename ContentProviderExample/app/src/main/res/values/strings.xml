@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContentProviderExample</string>
+    <string name="label_not_valid_requisition">Unsupported requisition</string>
+    <string name="label_object_not_inserted">Object not inserted</string>
+    <string name="label_uri_not_implemented">Unimplemented Uri</string>
+    <string name="exclude">exclude</string>
+    <string name="note_title">Title</string>
+    <string name="note_description">Description</string>
+    <string name="frag_neg_button_label">Cancel</string>
+    <string name="frag_pos_button_label">Save</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiExample</string>
+    <string name="label_requisition_error">Requisition Failed</string>
+</resources>

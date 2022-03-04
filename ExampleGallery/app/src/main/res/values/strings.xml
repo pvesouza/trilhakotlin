@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleGallery</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="select">Select</string>
+    <string name="camera">CAMERA</string>
+    <string name="label_created_image_description">Image created by camera</string>
+</resources>

@@ -1,0 +1,16 @@
+package br.com.example.pedro.apiexample.model
+
+import com.google.gson.annotations.SerializedName
+
+// This classe maps all retur from the api
+data class Product (
+    @SerializedName("id")
+    val id: String,
+    @SerializedName("prname")
+    val prname: String,
+    @SerializedName("primage")
+    val primage: String,
+    @SerializedName("prprice")
+    val prprice: String
+        ){
+}

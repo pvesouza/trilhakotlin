@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281445964869",
+    "project_id": "appnotificationexam",
+    "storage_bucket": "appnotificationexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281445964869:android:7daebb0ce7a97ce684d72c",
+        "android_client_info": {
+          "package_name": "br.com.example.pedro.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281445964869-niv7e23hh8g6har77e95cj0d93p1updf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEpFzAgP6sre7I9lmUIiN6g5CEWO6YWM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281445964869-niv7e23hh8g6har77e95cj0d93p1updf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
