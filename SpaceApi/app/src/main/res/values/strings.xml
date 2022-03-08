@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpaceApi</string>
+    <string name="number_of_people_on_space">Number of People on space:</string>
+    <string name="space_craft">space craft</string>
+    <string name="person">person</string>
+    <string name="_0">0</string>
+</resources>
